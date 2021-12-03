@@ -1,0 +1,175 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #4b4b4b;
+}
+.to {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #4b4b4b;
+}
+.len {
+  position: absolute;
+  width: 50px;
+  height: 60px;
+  top: 151px;
+  left: 88px;
+  z-index: 12;
+}
+.lendam {
+  position: absolute;
+  width: 50px;
+  height: 60px;
+  top: 148px;
+  left: 88px;
+  z-index: 12;
+}
+
+.xuong {
+  position: absolute;
+  width: 50px;
+  height: 60px;
+  top: 241px;
+  left: 88px;
+}
+.xuongdam {
+  position: absolute;
+  width: 50px;
+  height: 60px;
+  top: 245px;
+  left: 88px;
+}
+.trai {
+  position: absolute;
+  width: 60px;
+  height: 50px;
+  top: 201px;
+  left: 33px;
+}
+.traidam {
+  position: absolute;
+  width: 60px;
+  height: 50px;
+  top: 201px;
+  left: 28px;
+}
+.phai {
+  position: absolute;
+  width: 60px;
+  height: 50px;
+  top: 201px;
+  left: 131px;
+}
+.phaidam {
+  position: absolute;
+  width: 60px;
+  height: 50px;
+  top: 201px;
+  left: 136px;
+}
+.coi {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 185px;
+  left: 469px;
+}
+.coidam {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 185px;
+  left: 469px;
+}
+.mot {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 138px;
+  left: 537px;
+}
+.motdam {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 138px;
+  left: 537px;
+}
+.hai {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 138px;
+  left: 459px;
+}
+.haidam {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 138px;
+  left: 459px;
+}
+.ba {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 193px;
+  left: 411px;
+}
+.badam {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 193px;
+  left: 411px;
+}
+.bon {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 257px;
+  left: 421px;
+}
+.bondam {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 257px;
+  left: 421px;
+}
+.switch {
+  position: absolute;
+  top: 4px;
+  left: -240px;
+}
+.slide {
+  position: absolute;
+  top: 25px;
+  left: 240px;
+}
+.textDK {
+  position: absolute;
+  top: 35px;
+  left: 16px;
+  font-size: 20px;
+  color: #4cd137;
+  font-weight: 500;
+}
+.textMin {
+  position: absolute;
+  top: 6px;
+  left: 221px;
+  font-size: 20px;
+  color: #fbc531;
+  font-weight: 500;
+}
+.textMax {
+  position: absolute;
+  top: 8px;
+  left: 569px;
+  font-size: 20px;
+  color: #eb3b5a;
+  font-weight: 500;
+}
